@@ -82,11 +82,10 @@ Credit-Card-Fraud-Detection
 ## 🔮 Future Improvements
 
 - Real-time fraud detection
-- Deep Learning models
 - Explainable AI (XAI)
 - CI/CD Pipeline
 - REST API Deployment
-
+- Deep Learning Models
 ---
 
 ## 👨‍💻 Author
